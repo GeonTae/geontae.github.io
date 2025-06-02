@@ -16,4 +16,5 @@ package-lock.json
 vendor/
 .bundle/
 
+.DS_Store
 images/
