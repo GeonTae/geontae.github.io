@@ -22,14 +22,14 @@ repository: "geontae/geontae.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "Your Sidebar Name"
+  avatar: "./images/geontae-avatar.png"
+  name: "Geontae Kim"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Hello"
   location: "Earth"
-  employer: "Red Brick University"
+  # employer: "Red Brick University"
   uri: # URL
-  email: "none@example.org"
+  email: "geontae.kim.eng@gmail.com"
 
   # Academic websites
   academia: # URL
