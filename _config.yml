@@ -26,10 +26,10 @@ author:
   name: "Geontae Kim"
   pronouns: # example: "she/her"
   bio: "Hello"
-  location: "Earth"
+  location: "Vancouver, BC, Canada" # "City, State, Country"
   # employer: "Red Brick University"
   uri: # URL
-  email: "geontae.kim.eng@gmail.com"
+  # email: "geontae.kim.eng@gmail.com"
 
   # Academic websites
   academia: # URL
@@ -46,7 +46,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "geontae"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -60,7 +60,7 @@ author:
   # keybase: # Username
   # instagram: # Username
   # lastfm: # Username
-  linkedin: "https://www.linkedin.com/in/geontae-kim/" # Username
+  linkedin: "geontae-kim" # Username
   # mastodon: # URL
   # medium: # URL
   # pinterest: # Username
@@ -240,15 +240,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -267,14 +267,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
