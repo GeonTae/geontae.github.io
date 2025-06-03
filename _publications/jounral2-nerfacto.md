@@ -2,7 +2,7 @@
 title: "Deep learning-based 3D image reconstruction and damage mapping using neural radiance fields (Nerfacto)"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-nerfacto
+permalink: /publication/journal2-nerfacto
 excerpt: "In structural health monitoring using computer vision, deep learning-based damage identification and three-dimensional (3D) reconstruction of the structure are current hot topics. Traditional photogrammetry techniques are cost-inefficient and time-consuming for 3D reconstruction, and there is no such solid 3D pixelwise damage mapping technique. To overcome these limitations, a new deep neural network (DNN) based 3D reconstruction method, including damage mapping, is proposed in this paper."
 date: 2025-05-01
 venue: "Structural Health Monitoring"
