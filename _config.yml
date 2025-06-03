@@ -26,7 +26,7 @@ author:
   name: "Geontae Kim"
   pronouns: # example: "she/her"
   bio: "Hello"
-  location: "Vancouver, BC, Canada" # "City, State, Country"
+  location: "Vancouver, BC" # "City, State, Country"
   # employer: "Red Brick University"
   uri: # URL
   # email: "geontae.kim.eng@gmail.com"
@@ -36,7 +36,7 @@ author:
   arxiv: # URL - Update with the correct link to your profile
   googlescholar: "https://scholar.google.com/citations?user=0lgxLGAAAAAJ&hl=en" #"https://scholar.google.com/"
   impactstory: # URL
-  orcid: "https://orcid.org/0009-0001-7072-7905"
+  # orcid: "https://orcid.org/0009-0001-7072-7905"
   # semantic: # URL
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate: # URL
