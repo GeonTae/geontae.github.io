@@ -3,7 +3,7 @@ title: "3D Pixelwise damage mapping using a deep attention based modified Nerfac
 collection: publications
 category: manuscripts
 permalink: /publication/2024-ABM-nerfacto
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: "this paper proposes a new advanced 3D reconstruction method and its integration with 3D damage mapping techniques. As the 3D reconstruction method, an Attention-based Modified Nerfacto (ABM-Nerfacto) model is developed, and is integrated with an advanced damage segmentation method. Using a three-span continuous bridge with concrete piers as an example structure, and concrete cracks as the example damage, the state-of-the-art STRNet is utilized for crack segmentation."
 date: 2024-11-12
 venue: "Automation in Construction"
 # slidesurl: "http://academicpages.github.io/files/slides1.pdf"
