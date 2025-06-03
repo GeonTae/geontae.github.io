@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# Technical Highlights
 
-<!-- - Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-
-- M.S. in Civil Engineering,University of Manitoba, Winnipeg, Canada, 2024
-- B.S. in Mechanical and Automotive Engineering, Seoul National University of Science and Technology (SeoulTech), 2021
+- 3 years of AI research experience in deep learning, neural rendering, computer vision and 3D reconstruction.
+- Designed a 3D damage inspection pipeline using deep learning for real-world environment.
+- Hands-on experience in collecting over 100,000 images for training segmentation model and 3D reconstruction.
+- Published research papers in high-impact journals related to deep learning in applied science.
 
 # Work experience
 
@@ -32,6 +32,13 @@ redirect_from:
   - Conducted environment setup and testing of Cartographer and ORB-SLAM2 over ROS on a TurtleBot3 equipped with Raspberry Pi, OpenCR, and Intel RealSense RGB-D camera for navigation simulation testing.
   - Optimized computational efficiency by pre-processing input images, removing irrelevant upper-view data.
   - Converted 3D point cloud data to a 2D occupancy grid map, enabling real-time navigation for mobile robots.
+
+# Education
+
+<!-- - Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
+- M.S. in Civil Engineering,University of Manitoba, Winnipeg, Canada, 2024
+- B.S. in Mechanical and Automotive Engineering, Seoul National University of Science and Technology (SeoulTech), 2021
 
 # Publications
 
