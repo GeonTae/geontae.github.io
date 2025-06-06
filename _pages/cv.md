@@ -27,6 +27,10 @@ redirect_from:
   - Localized 3D damage coordinates by converting 2D object detections using camera extrinsic parameters.
   - Conducted data preparation, including annotation (bounding box, segmentation), augmentation, and image enhancement (deblurring, super-resolution).
 
+- Data Annotator – SDMENC (Contract) (2021)
+  - Performed polygon labeling for AI training datasets.
+  - Classified image data into 10 categories of industrial waste for detection and classification models.
+
 - Robotics Research Engineer (Intern)
   - Korea Institute of Science and Technology (KIST) (2020)
   - Conducted environment setup and testing of Cartographer and ORB-SLAM2 over ROS on a TurtleBot3 equipped with Raspberry Pi, OpenCR, and Intel RealSense RGB-D camera for navigation simulation testing.
